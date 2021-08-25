@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ht1212
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hayley
+- 👀 I’m interested in infectious disease epidemiology, data science, colour palettes and food
+- 🌱 I’m currently learning about how to survive a PhD
+- 💞️ I’m looking to collaborate on anything and everything - a curious mind can solve many problems
+- 📫 How to reach me @hayleyadelaide on twitter
 
 <!---
 ht1212/ht1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
